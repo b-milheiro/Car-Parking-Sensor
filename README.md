@@ -15,7 +15,7 @@ Using a microcontroller (Atmega328P), an HC-SR04 sensor, LEDs and a Buzzer, we d
 
 ## System architecture
 
-<img src="images\Schematic_CarParkingUltrasonicSensor.png" alt="Schematic" width="600" height="300">
+<img src="images\Schematic_CarParkingUltrasonicSensor.png" alt="Schematic" width="800" height="300">
 
 This system is composed by: Atmega328P (Arduino UNO); Ultrasonic Sensor - HC-SR04; LEDs - Red, Green and Yellow; 220 Ohm Resistor; Active Buzzer.
 In order for the Car Parking Sensor to be working properly, the LEDs and the Buzzer must signal the proximity to an obstacle. 
